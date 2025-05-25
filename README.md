@@ -1,7 +1,8 @@
-# FrontEnd_Mentor_Newbie_Challenges
+# FrontEnd_Mentor_Newbie_Challenges_1
 
+This repository features the first set of **Frontend Mentor** challenges I completed at the **newbie** difficulty level. These projects focus on mastering the basics of modern frontend development using HTML, CSS, and JavaScript, with an emphasis on responsive design and clean layouts.
 
-Links to the challenges I completed:
+### Links to the challenges I completed:
 
 01. Ping single column coming soon page - https://ping-single-column-coming-soon-page-mu-ten.vercel.app/
 
@@ -22,3 +23,7 @@ Links to the challenges I completed:
 09. Stats preview card component - https://stats-preview-card-five-mu.vercel.app/
 
 10. Results summary component - https://results-summary-component-sigma-henna.vercel.app/
+
+Each project was deployed with [Vercel](https://vercel.com/) and helped me practice essential frontend techniques including component-based layouts, basic interactivity, and responsive styling.
+
+I’ll continue building more solutions and advancing through the challenge levels to grow as a frontend developer.
